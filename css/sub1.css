@@ -38,6 +38,7 @@
   color: #fff;  font-weight: 600;
   position: relative;
 }
+/*  전시회 리스트*/
 .curation-box .exhibition li:nth-child(1) a{background:center / cover no-repeat url(../img/exhibition01.jfif);}
 .curation-box .exhibition li:nth-child(2) a{background:center / cover no-repeat url(../img/exhibition02.jfif);}
 .curation-box .exhibition li:nth-child(3) a{background:center / cover no-repeat url(../img/exhibition03.jfif);}
@@ -48,7 +49,7 @@
 .curation-box .exhibition li:nth-child(8) a{background:center / cover no-repeat url(../img/exhibition08.jfif);}
 .curation-box .exhibition li:nth-child(9) a{background:center / cover no-repeat url(../img/exhibition09.jfif);}
 .curation-box .exhibition li:nth-child(10) a{background:center / cover no-repeat url(../img/exhibition10.jfif);}
-
+/*  독립서점 리스트*/
 .curation-box .bookstore li:nth-child(1) a{background:center / cover no-repeat url(../img/bookstore01.jfif);}
 .curation-box .bookstore li:nth-child(2) a{background:center / cover no-repeat url(../img/bookstore02.jfif);}
 .curation-box .bookstore li:nth-child(3) a{background:center / cover no-repeat url(../img/bookstore03.jfif);}
@@ -57,7 +58,7 @@
 .curation-box .bookstore li:nth-child(6) a{background:center / cover no-repeat url(../img/bookstore06.jfif);}
 .curation-box .bookstore li:nth-child(7) a{background:center / cover no-repeat url(../img/bookstore07.jfif);}
 .curation-box .bookstore li:nth-child(8) a{background:center / cover no-repeat url(../img/bookstore08.jfif);}
-
+/*  문화공간 리스트*/
 .curation-box .cultural-space li:nth-child(1) a{background:center / cover no-repeat url(../img/cultural-space01.jfif);}
 .curation-box .cultural-space li:nth-child(2) a{background:center / cover no-repeat url(../img/cultural-space02.jfif);}
 .curation-box .cultural-space li:nth-child(3) a{background:center / cover no-repeat url(../img/cultural-space03.jfif);}
@@ -72,7 +73,7 @@
 .curation-box .cultural-space li:nth-child(12) a{background:center / cover no-repeat url(../img/cultural-space12.jfif);}
 .curation-box .cultural-space li:nth-child(13) a{background:center / cover no-repeat url(../img/cultural-space13.jfif);}
 .curation-box .cultural-space li:nth-child(14) a{background:center / cover no-repeat url(../img/cultural-space14.jfif);}
-
+/*  창작공간 리스트*/
 .curation-box .creation li:nth-child(1) a{background:center / cover no-repeat url(../img/creation01.jfif);}
 .curation-box .creation li:nth-child(2) a{background:center / cover no-repeat url(../img/creation02.jfif);}
 .curation-box .creation li:nth-child(3) a{background:center / cover no-repeat url(../img/creation03.jfif);}
@@ -89,7 +90,7 @@
 .curation-box ul li a em{
   display: block;
   height: 30px; 
-  padding:  0 10px;
+  padding: 0 10px;
   border-radius: 15px;
   text-align: center; line-height: 30px;
   position: absolute; left: 5%; top: 5%;

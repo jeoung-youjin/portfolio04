@@ -475,7 +475,9 @@ max-width:1280px
 max-width:640px
 ****************/
 /* 1280~640 */
-@media all and (max-width:640px) {}
+@media all and (max-width:640px){
+  
+}
 
 
 @keyframes bounce{
